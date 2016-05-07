@@ -1,0 +1,13 @@
+{
+  "isAudioEnabled" : true,
+  "captions": [
+    {
+      "text" : "Hello",
+      "seconds" : 10
+    },
+    {
+      "text" : "Hello",
+      "seconds" : 10
+    } 
+  ]
+}
